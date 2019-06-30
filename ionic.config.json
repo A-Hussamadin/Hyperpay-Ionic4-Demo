@@ -1,5 +1,7 @@
 {
   "name": "HyperpayDemoIonic4",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
